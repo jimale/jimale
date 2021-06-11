@@ -4,7 +4,7 @@
 
 ### 📫 How to reach me
 - [Twitter](https://twitter.com/jimale_10)
-- [Email](mailto:jimale@tiriig.com?subject=From Github)
+- [Email](mailto:jimale@tiriig.com?subject=%20From%20Github)
 
 <!--
 **jimale/jimale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

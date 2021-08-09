@@ -2,7 +2,7 @@
 
 🔭 I’m Android Developer based in Hargeisa,Somaliland
 
-### 📫 How to reach me
+### 📫 Reach me through
 - [Twitter](https://twitter.com/jimale_10)
 - [Email](mailto:jimale@tiriig.com?subject=%20From%20Github)
 

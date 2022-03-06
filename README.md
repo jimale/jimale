@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m an Android Developer based in Hargeisa,Somaliland
+🔭 I’m Jimale an Android Developer based in Hargeisa,Somaliland
 
 ### 📫 Reach me through
 - [Twitter](https://twitter.com/jimale_10)

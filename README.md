@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-🔭 Android Developer
-
+🔭 Android developer | Tech innovator | Skilled in Penetration testing
 ### 📫 Reach me through
 - [Twitter](https://twitter.com/jimale_10)
 - [Email](mailto:jimale@tiriig.com?subject=%20From%20Github)
